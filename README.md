@@ -11,3 +11,16 @@ Bu haftaki ev ödeviniz kullanıcı tarafından girilen 2 sayının toplanması 
 3- İlgili logların hemen altı kısımda liste şeklinde göreceğiz. Duruma göre gizle ve göster yapabilmeliyiz. Gizle ve göster durumuna göre butonun renginin ve text'in değişmesi gerekmektedir.
 
 ![Ödev Görseli](https://i.ibb.co/q0W7mmV/ezgif-com-video-to-gif.gif)
+
+# Yardımcı Kaynaklar
+https://github.com/Istanbul-Vuejs-Bootcamp/vuejs-intro
+
+https://vuejs.org/v2/guide/#Getting-Started
+
+https://vuejs.org/v2/guide/#Declarative-Rendering
+
+https://vuejs.org/v2/guide/#Conditionals-and-Loops
+
+https://vuejs.org/v2/guide/events.html
+
+https://vuejs.org/v2/api/#Options-Data
